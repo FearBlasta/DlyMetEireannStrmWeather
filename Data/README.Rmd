@@ -1,0 +1,16 @@
+---
+title: "CSV Data Files"
+author: "John Roche"
+date: "11/24/2020"
+output:
+  html_document:
+    df_print: paged
+    toc: true
+    toc_depth: 3
+    self_contained: true
+    number_sections: true
+  always_allow_html: yes
+  pdf_document:
+    includes:
+      before_body: citCoverPage.sty
+---
